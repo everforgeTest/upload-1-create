@@ -1,0 +1,8 @@
+{
+  "dbPath": "prediction_market.db",
+  "market": {
+    "maxTitleLength": 140,
+    "maxDescriptionLength": 2000,
+    "minBet": 1
+  }
+}
